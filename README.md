@@ -2,6 +2,8 @@
 
 ![Sign Language Detector](https://via.placeholder.com/800x200.png?text=Sign+Language+Detector)
 
+You can download my training dataset here to work with the model: [Training Dataset](https://drive.google.com/drive/folders/1scsw0boul57btt2p0C4hlWGMyIPHrxuj?usp=sharing)
+
 A real-time hand gesture recognition project to detect sign language letters using a webcam and a deep learning model. This project leverages the power of OpenCV, TensorFlow, and `cvzone` to collect, train, and predict hand gestures. The project aims to make communication easier for the hearing impaired by recognizing different sign language gestures.
 
 ## Table of Contents
@@ -211,6 +213,8 @@ cv2.destroyAllWindows()
 ## Installation
 
 To run this project, follow these steps:
+
+You can download my training dataset here to work with the model: [Training Dataset](https://drive.google.com/drive/folders/1scsw0boul57btt2p0C4hlWGMyIPHrxuj?usp=sharing)
 
 1. **Clone the repository**:
    ```sh
